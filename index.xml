@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Central Kentucky Community Organizing Project</title>
+    <link>https://www.ckycommunity.ga/</link>
+    <description>Recent content on Central Kentucky Community Organizing Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Sep 2022 14:06:16 -0400</lastBuildDate><atom:link href="https://www.ckycommunity.ga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://www.ckycommunity.ga/contact/</link>
+      <pubDate>Fri, 16 Sep 2022 14:08:08 -0400</pubDate>
+      
+      <guid>https://www.ckycommunity.ga/contact/</guid>
+      <description>How to contact us:</description>
+    </item>
+    
+    <item>
+      <title>Communitygarden</title>
+      <link>https://www.ckycommunity.ga/projects/communitygarden/</link>
+      <pubDate>Fri, 16 Sep 2022 14:06:16 -0400</pubDate>
+      
+      <guid>https://www.ckycommunity.ga/projects/communitygarden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burpee</title>
+      <link>https://www.ckycommunity.ga/sponsors/burpee/</link>
+      <pubDate>Fri, 16 Sep 2022 13:47:27 -0400</pubDate>
+      
+      <guid>https://www.ckycommunity.ga/sponsors/burpee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://www.ckycommunity.ga/posts/my-first-post/</link>
+      <pubDate>Fri, 16 Sep 2022 12:53:11 -0400</pubDate>
+      
+      <guid>https://www.ckycommunity.ga/posts/my-first-post/</guid>
+      <description>Testing!</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://www.ckycommunity.ga/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ckycommunity.ga/support/</guid>
+      <description>Support us on </description>
+    </item>
+    
+  </channel>
+</rss>
